@@ -19,6 +19,6 @@ Fine-tuned DistilBERT on the IMDB dataset (50,000 labeled reviews) for binary se
 - Evaluation Strategy: Per Epoch
 
 ## Results
-Test Accuracy: XX% (replace with actual value)
+Test Accuracy: 88.42% (replace with actual value)
 
 ## Run Training
